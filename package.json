@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "simple shogi library for JavaScript",
   "main": "lib/shogi.js",
+  "types": "lib/shogi.d.ts",
   "directories": {
     "test": "test"
   },
